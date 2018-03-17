@@ -1,0 +1,176 @@
+*
+{
+  padding: 0;
+  margin: 0;
+}
+
+.clearfix
+{
+  clear: both;
+}
+
+header
+{
+  background-color: #BADA55;
+  width: 100%;
+  height: 70px;
+}
+
+header .logo
+
+{
+  float: left;
+  padding: 0 90px 0 100px;
+  color: #F0F8FF;
+  line-height: 64px;
+}
+
+header ul 
+{
+  list-style: none;
+  float: right;
+}
+
+
+header ul li 
+{
+  display: inline-block;
+  padding: 0 30px ;
+  
+}
+
+header ul li a 
+{
+  text-transform: uppercase;
+  padding: 5px 16px;
+  text-decoration: none;
+  color: white;
+  line-height: 70px;
+  
+}
+
+header ul li a:hover
+
+{
+  background-color: #BADA55;
+  padding-top: 26px;
+  padding-bottom:25px;
+}
+
+.row
+
+{
+height: 0;
+ width: 100%;
+  
+}
+
+.row .box1 img
+
+{
+width: 100%;
+}
+
+.row .box2 img
+
+{
+width: 100%;
+}
+
+.box3 img
+
+{
+  width: 100%;
+  height: 94.4%;
+  
+
+}
+
+.row .box1 
+
+{
+  padding-top: 3%;
+  width: 25%;
+  
+}
+
+.box3 img:hover 
+{
+ 
+  cursor: pointer;
+  
+  transition: .5s ease;
+ 
+ 
+ opacity: 0.5;
+
+}
+
+.row .box1 p
+{
+  padding: 10px;
+  text-align: left;
+}
+
+.row .box2 
+
+{
+  width: 25%;
+}
+
+.row .box2 p
+{
+  padding: 10px;
+  text-align: left;
+}
+
+
+.box3
+
+{
+
+  width: 74.9%;
+  float: right;
+}
+.box3 p
+{
+  padding: 10px;
+  text-align: left;
+}
+
+
+
+.box4
+
+{
+
+  width: 45.55%;
+  float: left;
+  margin-left: 2.65%;
+ 
+}
+
+ .box4 img
+
+{
+
+  width: 100%;
+}
+
+.box5
+
+{
+
+  width: 30.33%;
+ float: left;
+  margin-left: 2%;
+}
+
+ .box5 img
+
+{
+
+  width: 100%;
+}
+
+
